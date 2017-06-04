@@ -1,4 +1,4 @@
-# Auto Backup Restore of RDS Instance & RedshiftCluster
+# Auto Backup Restore of RDS Instance & Redshift Cluster
 This is a python script which is used to backup or restore the RDS instance & Redshift cluster when the EC2 on or off.
 
 We used on demand RDS instance & Redshift cluster in our application which cost hourly basis.
